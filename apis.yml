@@ -30,3 +30,6 @@ apis:
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
+common:
+- type: DomainSecurity
+  url: security/frax-finance-domain-security.yml
