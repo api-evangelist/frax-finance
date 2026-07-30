@@ -1,6 +1,17 @@
 name: Frax Finance
 description: Frax Finance is a fractional-algorithmic stablecoin protocol featuring FRAX (a stablecoin), FXS (Frax Shares governance token), and Fraxswap — a TWAMM-based AMM DEX. The protocol is deployed across multiple chains and exposes its on-chain data via The Graph subgraphs.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/frax-finance.png
 url: https://api-evangelist.github.io/frax-finance/apis.yml
 created: "2026-06-14"
 modified: "2026-06-14"
