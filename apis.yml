@@ -18,6 +18,13 @@ modified: "2026-06-14"
 specificationVersion: '0.23'
 tags:
   - DeFi
+  - Stablecoins
+  - AMM
+  - TWAMM
+  - GraphQL
+  - Ethereum
+tags_raw:
+  - DeFi
   - Stablecoin
   - AMM
   - TWAMM
